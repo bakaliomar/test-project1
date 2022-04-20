@@ -25,9 +25,6 @@ Run npm run serve for a dev server. Navigate to http://localhost:8080/. The app 
 
 ## Versioning
 
-## Authors
-* **Ossama ATTALIB**
-
 
 ## License
 
